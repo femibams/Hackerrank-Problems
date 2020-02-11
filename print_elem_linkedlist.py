@@ -10,7 +10,6 @@
 #
 def printLinkedList(head):
     cur = head
-    print(cur.data)
-    while cur.next != None:
-        cur = cur.next
+    while cur != None:
         print(cur.data)
+        cur = cur.next
