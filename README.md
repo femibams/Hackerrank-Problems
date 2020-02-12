@@ -9,3 +9,4 @@ Hackerrank Problems and Solutions
 | Array Left Rotation | [url](https://www.hackerrank.com/challenges/array-left-rotation/problem) | left_rotation.py   |
 | Sparse Arrays     | [url](https://www.hackerrank.com/challenges/sparse-arrays/problem)  | sparse_array.py           |
 | Print the Elements of a Linked List | [url](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | print_elem_linkedlist.py|
+| Arrays - DS  | [url](https://www.hackerrank.com/challenges/arrays-ds/problem)  | array_ds.py |
