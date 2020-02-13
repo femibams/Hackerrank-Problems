@@ -10,3 +10,4 @@ Hackerrank Problems and Solutions
 | Sparse Arrays     | [url](https://www.hackerrank.com/challenges/sparse-arrays/problem)  | sparse_array.py           |
 | Print the Elements of a Linked List | [url](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | print_elem_linkedlist.py|
 | Arrays - DS  | [url](https://www.hackerrank.com/challenges/arrays-ds/problem)  | array_ds.py |
+| Insert a Node at the Tail of a Linked List | [url](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) | insert_node_at_tail_linkedlist.py  |
