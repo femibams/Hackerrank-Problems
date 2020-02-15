@@ -11,3 +11,4 @@ Hackerrank Problems and Solutions
 | Print the Elements of a Linked List | [url](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | print_elem_linkedlist.py|
 | Arrays - DS  | [url](https://www.hackerrank.com/challenges/arrays-ds/problem)  | array_ds.py |
 | Insert a Node at the Tail of a Linked List | [url](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) | insert_node_at_tail_linkedlist.py  |
+| Insert a node at the head of a linked list  | [url](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) | insert_node_at_head_linkedlist.py  |
