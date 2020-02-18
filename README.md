@@ -13,3 +13,5 @@ Hackerrank Problems and Solutions
 | Insert a Node at the Tail of a Linked List | [url](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem) | insert_node_at_tail_linkedlist.py  |
 | Insert a node at the head of a linked list  | [url](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) | insert_node_at_head_linkedlist.py  |
 | Delete a Node | [url](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)  | delete_node.py |
+| Insert a node at a specific position in a linked list | [url](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | insert_node_at_position_linkedlist.py |
+
